@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Database Manipulation", "Database Manipulation.vbproj", "{270892EF-12EC-46B5-8E8C-813266754D0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270892EF-12EC-46B5-8E8C-813266754D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270892EF-12EC-46B5-8E8C-813266754D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270892EF-12EC-46B5-8E8C-813266754D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270892EF-12EC-46B5-8E8C-813266754D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B14ACC95-7AE3-4465-95DD-52E3E19AB702}
+	EndGlobalSection
+EndGlobal
